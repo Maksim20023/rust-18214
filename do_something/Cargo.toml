@@ -1,0 +1,9 @@
+[package]
+name = "do_something"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+
+
+[dependencies]
